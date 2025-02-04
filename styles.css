@@ -1,0 +1,115 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #2a1e2f;
+    color: #f8e1f4;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ff69b4 !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f8e1f4 !important;
+}
+
+/* Form Styling */
+.container h2 {
+    color: #ff69b4;
+}
+
+form {
+    background-color: #3b2845;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(255, 105, 180, 0.3);
+}
+
+.form-control {
+    background-color: #4e365a;
+    color: white;
+    border: none;
+}
+
+.form-control::placeholder {
+    color: #c2a2c7;
+}
+
+.form-check-label {
+    color: #f8e1f4;
+}
+
+.btn-success {
+    background-color: #ff69b4 !important;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-success:hover {
+    background-color: #ff3c98 !important;
+}
+
+/* Table */
+.table-responsive {
+    margin-top: 20px;
+}
+
+.table {
+    background-color: #3b2845;
+    color: white;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #4e365a;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #5f4170 !important;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-fluid {
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(255, 105, 180, 0.5);
+}
+
+.rounded-circle {
+    border: 3px solid #ff69b4;
+    box-shadow: 0px 2px 8px rgba(255, 105, 180, 0.6);
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #ff69b4 !important;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #ff3c98 !important;
+}
+
+.btn-secondary {
+    background-color: #3b2845 !important;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #4e365a !important;
+}
