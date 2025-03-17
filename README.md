@@ -23,7 +23,7 @@ EmberTask will be a productivity-focused web application built with **Bootstrap*
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/embertask.git
+   git clone https://github.com/mramessar/module-5-knowledge-check
    
    ```
 
